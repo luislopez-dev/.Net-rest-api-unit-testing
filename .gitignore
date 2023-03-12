@@ -1,0 +1,9 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+datingApp/appsettings.json 
+.idea
+.vscode
+web-api.sln.DotSettings.user
