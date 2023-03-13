@@ -7,6 +7,7 @@ namespace web_api.Contracts
         IEnumerable<ShoppingItem> GetAllItems();
         ShoppingItem Add(ShoppingItem newItem);
         ShoppingItem GetById(Guid id);
+        ShoppingItem GetFirstItem();
         void Remove(Guid id);
     }
 }
